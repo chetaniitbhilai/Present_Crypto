@@ -9,18 +9,6 @@ This repository is dedicated to the **PRESENT cipher**, a lightweight block ciph
 - [Overview](#overview)
 - [Features](#features)
 - [Directory Structure](#directory-structure)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-- [Usage](#usage)
-  - [PRESENT Cipher](#present-cipher)
-  - [Differential Cryptanalysis](#differential-cryptanalysis)
-  - [Integral Cryptanalysis](#integral-cryptanalysis)
-  - [VPN Implementation](#vpn-implementation)
-  - [LAT Generation](#lat-generation)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Overview
